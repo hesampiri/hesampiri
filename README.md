@@ -7,7 +7,7 @@ Feel free to explore my repositories, and if you have any feedback, suggestions,
 connect with me : 
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:hesvmpiri@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/hesam-piri-a1488a267/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/hesam-piri-a1488a267/])
 
 languages and tools :
 
