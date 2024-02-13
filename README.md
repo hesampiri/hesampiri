@@ -9,4 +9,6 @@ connect with me :
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
+languages and tools :
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,git)](https://skillicons.dev)
