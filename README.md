@@ -11,4 +11,4 @@ connect with me :
 
 languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,redux,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nextjs,redux,tailwind,git)](https://skillicons.dev)
